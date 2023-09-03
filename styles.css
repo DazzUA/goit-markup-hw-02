@@ -1,0 +1,23 @@
+
+/*base*/
+body{font-family:'Roboto',
+    sans-serif;color:#2E2F42;background-color: #FFFFFF;
+
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;}
+    button {
+            font-family: inherit;
+}
+
+/*header*/
+.logo{font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height:116.667%;
+    letter-spacing: 0.54px;}
+.logo-accet{color:#4D5AE5}
