@@ -63,7 +63,10 @@ button {
   line-height: 150%;
   letter-spacing: 0.32px;
 }
-.adress:active {
+.adress-ul{color: #434455;}
+.adress-ul:hover{color: #404bbf;}
+.adress-ul:focus{color: #404bbf;}
+.adress-ul:active {
   color: #4d5ae5;
 }
 /*main*/
