@@ -14,8 +14,8 @@ ul {
 button {
   font-family: inherit;
 }
-.visually-hidden {
-    position: absolute;
+/*.visually-hidden {
+  
     width: 1px;
     height: 1px;
     margin: -1px;
@@ -25,7 +25,7 @@ button {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-}
+}*/
 
 /*header*/
 .logo {
@@ -85,7 +85,7 @@ button {
     color:#FFFFFF;
     background-color:#4d5ae5;
     border-radius: 4px;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+   
     padding: 16px 32px;
     font-style: normal;
     font-weight: 500;
