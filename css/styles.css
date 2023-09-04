@@ -96,6 +96,7 @@ button {
   background-color: #404BBF;      
 }
 .adv-title{
+  color: #2e2f42;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
@@ -123,6 +124,7 @@ button {
     text-transform: capitalize;
 }
 .team-title{
+   color:#2e2f42;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
@@ -148,6 +150,7 @@ button {
   text-transform: capitalize;}
 
 .port-title{
+  color: #2e2f42;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
