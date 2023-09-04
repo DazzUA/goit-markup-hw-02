@@ -53,6 +53,8 @@ button {
   color: #4d5ae5;
   text-decoration: underline;
 }
+.nav-link:hover{color: #404bbf;}
+.nav-link:focus{color: #404bbf;}
 .adress {
   color: #2e2f42;
   font-size: 16px;
